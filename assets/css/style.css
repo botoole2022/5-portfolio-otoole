@@ -1,0 +1,23 @@
+#myVideo {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  min-width: 100%; 
+  min-height: 100%;
+    max-width: 100%;
+  height: auto;
+}
+
+.content {
+  position: fixed;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0);
+  color: #ffffff;
+  width: 100%;
+  padding: 30px;
+    z-index: 2;
+}
+
+.order {
+    z-index:2;
+}
