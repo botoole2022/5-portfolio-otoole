@@ -18,5 +18,6 @@ My name is Bethany O’Toole, I am 15 years old. I go to Andover High School and
 5/31/19- I found how to change the header color 
 5/31/19- I changed the header color
 6/3/19- couldn't get the icons to work 
+6/7/19- I got the icons to work, it didn't work because I linked it wrong. 
 
 
